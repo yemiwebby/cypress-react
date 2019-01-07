@@ -1,0 +1,5 @@
+{
+  "titleText": "Using fixtures to represent data",
+  "descriptionText": "This is a very simple description",
+  "bodyText": "Fixtures are a great way to mock data for responses to routes"
+}
